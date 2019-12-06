@@ -1,2 +1,0 @@
-# bearhacks.ml
-website
