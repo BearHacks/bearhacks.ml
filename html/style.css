@@ -29,5 +29,5 @@
     color: var(--not_blue);
 }
 .container1{
-    color: #03c2fc
+    background-color: var(--light_blue);
 }
