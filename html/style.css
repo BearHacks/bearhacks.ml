@@ -14,3 +14,8 @@
 .nav-link {
     color:var(--not_blue);
 }
+
+.nav-link:hover {
+    border-radius: 10px;
+    color: var(--light_blue);
+}
