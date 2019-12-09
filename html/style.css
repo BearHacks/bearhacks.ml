@@ -1,5 +1,9 @@
+:root {
+    dark_blue:#13293D;
+}
+
 .navcolor {
-    background-color: #13293D;
+    background-color: var(dark_blue);
 }
 
 .nav-link {
