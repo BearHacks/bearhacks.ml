@@ -28,6 +28,6 @@
 .navbar-brand:hover {
     color: var(--not_blue);
 }
-.container1{
-    color: #03c2fc
+.jumbotron{
+    background-color: #03c2fc
 }
