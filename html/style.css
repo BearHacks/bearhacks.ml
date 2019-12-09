@@ -9,9 +9,6 @@
 .navcolor {
     background-color: var(--insane_blue);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.nav-link {
     color:var(--not_blue);
 }
 
