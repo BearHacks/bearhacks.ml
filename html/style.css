@@ -6,13 +6,25 @@
     --not_blue: #E8F1F2;
 }
 
-.navcolor {
+.nav-color {
     background-color: var(--insane_blue);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color:var(--not_blue);
+    color: var(--not_blue);
+}
+
+.nav-link {
+    color: var(--not_blue);
 }
 
 .nav-link:hover {
     border-radius: 10px;
     color: var(--light_blue);
+}
+
+.navbar-brand {
+    color: var(--not_blue);
+}
+
+.navbar-brand:hover {
+    color: var(--not_blue);
 }
