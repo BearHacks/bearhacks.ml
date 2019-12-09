@@ -1,13 +1,15 @@
 :root {
-    --dark_blue:#13293D;
-    --gray_white: #E8F1F2;
-
+    --insane_blue:#13293D;
+    --hard_blue: #006494;
+    --medium_blue:#247BA0;
+    --light_blue: #1B98E0;
+    --not_blue: #E8F1F2;
 }
 
 .navcolor {
-    background-color: var(--dark_blue);
+    background-color: var(--insane_blue);
 }
 
 .nav-link {
-    color:var(--gray_white);
+    color:var(--not_blue);
 }
